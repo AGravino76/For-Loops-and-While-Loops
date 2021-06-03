@@ -1,0 +1,5 @@
+give
+money
+room
+food
+bath
